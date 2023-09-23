@@ -1,0 +1,136 @@
+.delivery>h4{
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+.delivery>p{
+    margin: 0px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.searchbar>input{
+   width: 40vh;
+   border-radius: 10px;
+}
+.my-category{
+    width: 85%;
+}
+.my-category,.my-container{
+    margin: auto;
+    width: 90%;    
+    overflow-x: scroll;
+}
+.my-list{
+    white-space: nowrap;
+    overflow-x: scroll;
+}
+.d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my-list>img{
+    padding-inline: 10px;
+   
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.my-card{
+    width: 179px;
+    margin-inline: 10px;
+}
+.my-time{
+    border-radius: 4px;
+    padding: 0px 4px;
+    color: rgb(54,54, 54);
+    background-color: rgb(248, 248,248);
+    width: fit-content;
+    font-size: 9px;
+    font-weight: 700;
+}
+.my-title{
+    color: rgb(31, 31, 31);
+    font-weight: 600;
+    font-size: 13px;
+    
+}
+.my-weight{
+   color: #666666;
+   font-size: 11px; 
+
+}
+.my-price{
+    color: rgb(31, 31, 31);
+    font-weight: 600;
+    font-size: 12px;
+}
+.myfooter{
+    width: 85%;
+    margin: auto;
+}
+.row3{
+   
+  
+   background-color: ffffffff;
+   color: e7e7e7ff;
+   font-size: 15px;
+   padding: 10px;
+   text-align: justify;
+}
+
+
+.social-btn{
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    border-radius: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-inline: 10px;
+}
+.row2>p{
+    width: 35%;
+    text-align: justify;
+    color: e7e7e7ff;
+    font-size: 12px;
+    padding-top: 4px;
+}
+.btnd{
+   
+   background-color: #213b50;
+   color: white;
+   border-radius: 10px;
+   margin: 10px;
+   padding: 10px;
+}
+.dowmloads>p{
+    color: #666666;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 16px;
+}
+.row1{
+    padding-top: 5px;
+    display: flex;
+}
+.udefullink{
+    display: 2;
+    width: 100%;
+    justify-content: space-between;
+}
+.links2{
+    display: 3;
+    width: 100%;
+    justify-content: space-between;
+}
+table{
+    color: #666666;
+    font-weight: 600;
+    font-size: 14px;
+    width: 100%;
+}
