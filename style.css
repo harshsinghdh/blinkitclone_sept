@@ -138,3 +138,18 @@ table{
     font-size: 14px;
     width: 100%;
 }
+@media screen and(max-width:768px) {
+    nav,.row2,.row1{
+        flex-direction: column !important;
+    }
+    .row2>p{
+        width: 90%;
+    }
+    .row1>div{
+        margin-top: 20px;
+    }
+    .row1>div>h2,.row1>div>h4{
+        text-align: center;
+    }
+    
+}
